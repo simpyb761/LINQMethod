@@ -1,0 +1,15 @@
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\bin\Debug\net6.0\LINQMethod.exe
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\bin\Debug\net6.0\LINQMethod.deps.json
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\bin\Debug\net6.0\LINQMethod.runtimeconfig.json
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\bin\Debug\net6.0\LINQMethod.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\bin\Debug\net6.0\LINQMethod.pdb
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.csproj.AssemblyReference.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.AssemblyInfoInputs.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.AssemblyInfo.cs
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.csproj.CoreCompileInputs.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\obj\Debug\net6.0\refint\LINQMethod.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.pdb
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\obj\Debug\net6.0\LINQMethod.genruntimeconfig.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQMethod\LINQMethod\LINQMethod\obj\Debug\net6.0\ref\LINQMethod.dll
